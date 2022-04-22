@@ -23,7 +23,7 @@ Learning record of Python syntax and related libraries
     - Queue – A thread-safe FIFO implementation
     - weakref – Garbage-collectable references to objects
     - copy – Duplicate objects
-    - pprint – Pretty-print data structures
+    11. pprint – Pretty-print data structures
 04. Numeric and Mathematical Modules
     - decimal – Fixed and floating point math
     - fractions – Rational Numbers
