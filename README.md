@@ -45,7 +45,7 @@ Learning record of Python syntax and related libraries
     - hashlib – Cryptographic hashes and message digests
     - hmac – Cryptographic signature and verification of messages.
 08. File and Directory Access
-    - os.path – Platform-independent manipulation of file names.
+    01. os.path – Platform-independent manipulation of file names.
     - fileinput – Process lines from input streams
     - filecmp – Compare files
     - tempfile – Create temporary filesystem resources.
