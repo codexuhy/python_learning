@@ -28,7 +28,7 @@ Learning record of Python syntax and related libraries
     - decimal – Fixed and floating point math
     - fractions – Rational Numbers
     - functools – Tools for Manipulating Functions
-    - itertools – Iterator functions for efficient looping
+    04. itertools – Iterator functions for efficient looping
     - math – Mathematical functions
     - operator – Functional interface to built-in operators
     - random – Pseudorandom number generators
