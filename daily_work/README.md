@@ -5,3 +5,5 @@
 - 2022-05-28
     - task1：jira自动填充脚本，根据jira id  拉取对应字段的内容，填充到csv表格上
     - task2：jira脚本编辑工具，根据jql信息进行更新jira id的mdi mviz Description字段
+- 2022-06-30
+    - test1.py :求出列表里面任意两个元素的最短距离
