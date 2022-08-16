@@ -7,3 +7,5 @@
     - task2：jira脚本编辑工具，根据jql信息进行更新jira id的mdi mviz Description字段
 - 2022-06-30
     - test1.py :求出列表里面任意两个元素的最短距离
+- 2022-08-16
+    - osm2geojson.py: osm转成geojson格式
